@@ -1,5 +1,6 @@
-pyrogram==1.4.16
+python 3.10
+pyrogram==2.0.106
+tgcrypto==1.2.5
 pymongo
-requests
+motor
 dnspython
-tgcrypto==1.2.2
